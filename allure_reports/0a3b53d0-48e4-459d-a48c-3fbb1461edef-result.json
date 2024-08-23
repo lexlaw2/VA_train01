@@ -1,0 +1,1068 @@
+{
+	"uuid": "0a3b53d0-48e4-459d-a48c-3fbb1461edef",
+	"historyId": "Интерактивная справка. Основные кнопки работы со сценариями. Часть один..Основные кнопки работы со сценариями. Часть один.",
+	"name": "Основные кнопки работы со сценариями. Часть один.",
+	"fullName": null,
+	"testCaseId": null,
+	"start": 1724391037996,
+	"stop": 1724391075863,
+	"statusDetails": {
+		"known": false,
+		"muted": false,
+		"flaky": false
+	},
+	"status": "skipped",
+	"stage": "finished",
+	"steps": [
+		{
+			"name": "* Привет! В этом уроке я расскажу тебе про кнопки, которые управляют созданием, сохранением и запуском сценариев. Давай откроем второй экземпляр Ванессы в режиме обучения.",
+			"start": 1724391038008,
+			"stop": 1724391050563,
+			"status": "broken",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [],
+			"attachments": [],
+			"steps": [
+				{
+					"name": "И я открываю Vanessa Automation в режиме обучения",
+					"start": 1724391038008,
+					"stop": 1724391038008,
+					"status": "broken",
+					"stage": "finished",
+					"statusDetails": {
+						"known": false,
+						"muted": false,
+						"flaky": false
+					},
+					"parameters": [],
+					"attachments": [],
+					"steps": []
+				},
+				{
+					"name": "И я открываю Vanessa Automation в режиме обучения",
+					"start": 1724391038518,
+					"stop": 1724391050563,
+					"status": "passed",
+					"stage": "finished",
+					"statusDetails": {
+						"known": false,
+						"muted": false,
+						"flaky": false
+					},
+					"parameters": [],
+					"attachments": [],
+					"steps": []
+				}
+			]
+		},
+		{
+			"name": "* Отлично. Смотри. Мы поговорим об этом наборе инструментов.",
+			"start": 1724391051073,
+			"stop": 1724391060231,
+			"status": "broken",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [],
+			"attachments": [],
+			"steps": [
+				{
+					"name": "И Я делаю подсветку группы элементов VA 'ЭтотСеанс' \"ГруппаVanessaEditorВыполнениеСценариев\" \"Основные кнопки работы со сценариями\"",
+					"start": 1724391051073,
+					"stop": 1724391051073,
+					"status": "broken",
+					"stage": "finished",
+					"statusDetails": {
+						"known": false,
+						"muted": false,
+						"flaky": false
+					},
+					"parameters": [
+						{
+							"name": "Парам1",
+							"value": "ЭтотСеанс"
+						},
+						{
+							"name": "Парам2",
+							"value": "ГруппаVanessaEditorВыполнениеСценариев"
+						},
+						{
+							"name": "Парам3",
+							"value": "Основные кнопки работы со сценариями"
+						}
+					],
+					"attachments": [],
+					"steps": []
+				},
+				{
+					"name": "И Я делаю подсветку группы элементов VA 'ЭтотСеанс' \"ГруппаVanessaEditorВыполнениеСценариев\" \"Основные кнопки работы со сценариями\"",
+					"start": 1724391051605,
+					"stop": 1724391054835,
+					"status": "passed",
+					"stage": "finished",
+					"statusDetails": {
+						"known": false,
+						"muted": false,
+						"flaky": false
+					},
+					"parameters": [
+						{
+							"name": "Парам1",
+							"value": "ЭтотСеанс"
+						},
+						{
+							"name": "Парам2",
+							"value": "ГруппаVanessaEditorВыполнениеСценариев"
+						},
+						{
+							"name": "Парам3",
+							"value": "Основные кнопки работы со сценариями"
+						}
+					],
+					"attachments": [],
+					"steps": []
+				},
+				{
+					"name": "И Пауза 5",
+					"start": 1724391055049,
+					"stop": 1724391060231,
+					"status": "passed",
+					"stage": "finished",
+					"statusDetails": {
+						"known": false,
+						"muted": false,
+						"flaky": false
+					},
+					"parameters": [
+						{
+							"name": "Парам1",
+							"value": 5
+						}
+					],
+					"attachments": [],
+					"steps": []
+				}
+			]
+		},
+		{
+			"name": "* Тут расположены кнопки, позволяющие создать, записать на диск и запустить сценарии на выполнение.",
+			"start": 1724391060370,
+			"stop": 1724391060370,
+			"status": "broken",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [],
+			"attachments": [],
+			"steps": []
+		},
+		{
+			"name": "* Тут расположены кнопки, позволяющие создать, записать на диск и запустить сценарии на выполнение.",
+			"start": 1724391060915,
+			"stop": 1724391061039,
+			"status": "skipped",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [],
+			"attachments": [],
+			"steps": []
+		},
+		{
+			"name": "* Давай рассмотрим их подробнее.",
+			"start": 1724391061238,
+			"stop": 1724391061238,
+			"status": "broken",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [],
+			"attachments": [],
+			"steps": []
+		},
+		{
+			"name": "* Давай рассмотрим их подробнее.",
+			"start": 1724391061438,
+			"stop": 1724391061438,
+			"status": "broken",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [],
+			"attachments": [],
+			"steps": []
+		},
+		{
+			"name": "* Давай рассмотрим их подробнее.",
+			"start": 1724391061640,
+			"stop": 1724391061640,
+			"status": "broken",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [],
+			"attachments": [],
+			"steps": []
+		},
+		{
+			"name": "* Давай рассмотрим их подробнее.",
+			"start": 1724391061840,
+			"stop": 1724391061840,
+			"status": "broken",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [],
+			"attachments": [],
+			"steps": []
+		},
+		{
+			"name": "* Давай рассмотрим их подробнее.",
+			"start": 1724391062040,
+			"stop": 1724391062040,
+			"status": "broken",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [],
+			"attachments": [],
+			"steps": []
+		},
+		{
+			"name": "* Давай рассмотрим их подробнее.",
+			"start": 1724391062243,
+			"stop": 1724391062243,
+			"status": "broken",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [],
+			"attachments": [],
+			"steps": []
+		},
+		{
+			"name": "* Давай рассмотрим их подробнее.",
+			"start": 1724391062446,
+			"stop": 1724391062446,
+			"status": "broken",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [],
+			"attachments": [],
+			"steps": []
+		},
+		{
+			"name": "* Давай рассмотрим их подробнее.",
+			"start": 1724391062661,
+			"stop": 1724391062661,
+			"status": "broken",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [],
+			"attachments": [],
+			"steps": []
+		},
+		{
+			"name": "* Давай рассмотрим их подробнее.",
+			"start": 1724391062972,
+			"stop": 1724391062972,
+			"status": "broken",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [],
+			"attachments": [],
+			"steps": []
+		},
+		{
+			"name": "* Давай рассмотрим их подробнее.",
+			"start": 1724391063190,
+			"stop": 1724391063190,
+			"status": "broken",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [],
+			"attachments": [],
+			"steps": []
+		},
+		{
+			"name": "* Давай рассмотрим их подробнее.",
+			"start": 1724391063409,
+			"stop": 1724391063409,
+			"status": "broken",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [],
+			"attachments": [],
+			"steps": []
+		},
+		{
+			"name": "* Давай рассмотрим их подробнее.",
+			"start": 1724391063623,
+			"stop": 1724391063623,
+			"status": "broken",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [],
+			"attachments": [],
+			"steps": []
+		},
+		{
+			"name": "* Давай рассмотрим их подробнее.",
+			"start": 1724391063841,
+			"stop": 1724391063841,
+			"status": "broken",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [],
+			"attachments": [],
+			"steps": []
+		},
+		{
+			"name": "* Давай рассмотрим их подробнее.",
+			"start": 1724391064056,
+			"stop": 1724391064056,
+			"status": "broken",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [],
+			"attachments": [],
+			"steps": []
+		},
+		{
+			"name": "* Давай рассмотрим их подробнее.",
+			"start": 1724391064273,
+			"stop": 1724391064273,
+			"status": "broken",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [],
+			"attachments": [],
+			"steps": []
+		},
+		{
+			"name": "* Давай рассмотрим их подробнее.",
+			"start": 1724391064477,
+			"stop": 1724391064477,
+			"status": "broken",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [],
+			"attachments": [],
+			"steps": []
+		},
+		{
+			"name": "* Давай рассмотрим их подробнее.",
+			"start": 1724391064687,
+			"stop": 1724391064687,
+			"status": "broken",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [],
+			"attachments": [],
+			"steps": []
+		},
+		{
+			"name": "* Давай рассмотрим их подробнее.",
+			"start": 1724391064893,
+			"stop": 1724391064894,
+			"status": "broken",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [],
+			"attachments": [],
+			"steps": []
+		},
+		{
+			"name": "* Давай рассмотрим их подробнее.",
+			"start": 1724391065087,
+			"stop": 1724391065087,
+			"status": "broken",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [],
+			"attachments": [],
+			"steps": []
+		},
+		{
+			"name": "* Давай рассмотрим их подробнее.",
+			"start": 1724391065295,
+			"stop": 1724391065295,
+			"status": "broken",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [],
+			"attachments": [],
+			"steps": []
+		},
+		{
+			"name": "* Давай рассмотрим их подробнее.",
+			"start": 1724391065494,
+			"stop": 1724391065494,
+			"status": "broken",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [],
+			"attachments": [],
+			"steps": []
+		},
+		{
+			"name": "* Давай рассмотрим их подробнее.",
+			"start": 1724391065709,
+			"stop": 1724391065709,
+			"status": "broken",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [],
+			"attachments": [],
+			"steps": []
+		},
+		{
+			"name": "* Давай рассмотрим их подробнее.",
+			"start": 1724391065974,
+			"stop": 1724391065974,
+			"status": "broken",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [],
+			"attachments": [],
+			"steps": []
+		},
+		{
+			"name": "* Давай рассмотрим их подробнее.",
+			"start": 1724391066225,
+			"stop": 1724391066225,
+			"status": "broken",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [],
+			"attachments": [],
+			"steps": []
+		},
+		{
+			"name": "* Давай рассмотрим их подробнее.",
+			"start": 1724391066443,
+			"stop": 1724391066443,
+			"status": "broken",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [],
+			"attachments": [],
+			"steps": []
+		},
+		{
+			"name": "* Давай рассмотрим их подробнее.",
+			"start": 1724391066657,
+			"stop": 1724391066657,
+			"status": "broken",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [],
+			"attachments": [],
+			"steps": []
+		},
+		{
+			"name": "* Давай рассмотрим их подробнее.",
+			"start": 1724391067200,
+			"stop": 1724391067314,
+			"status": "skipped",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [],
+			"attachments": [],
+			"steps": []
+		},
+		{
+			"name": "* Эта кнопка позволяет создать новый сценарий. Давай нажмём на неё.",
+			"start": 1724391067424,
+			"stop": 1724391075364,
+			"status": "broken",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [],
+			"attachments": [],
+			"steps": [
+				{
+					"name": "И Я делаю подсветку элемента VA \"ФормаVanessaEditorСоздатьНовыйСценарий\" \"Создать новый сценарий\" и перемещаю курсор",
+					"start": 1724391067424,
+					"stop": 1724391075364,
+					"status": "broken",
+					"stage": "finished",
+					"statusDetails": {
+						"known": false,
+						"muted": false,
+						"flaky": false
+					},
+					"parameters": [],
+					"attachments": [],
+					"steps": [
+						{
+							"name": "И я делаю подсветку элементов VA \"ЭтотСеанс\" \"Создать новый сценарий\" UI Automation",
+							"start": 1724391067424,
+							"stop": 1724391067424,
+							"status": "broken",
+							"stage": "finished",
+							"statusDetails": {
+								"known": false,
+								"muted": false,
+								"flaky": false
+							},
+							"parameters": [
+								{
+									"name": "Парам1",
+									"value": "ЭтотСеанс"
+								},
+								{
+									"name": "Парам2",
+									"value": "Создать новый сценарий"
+								}
+							],
+							"attachments": [
+								{
+									"name": "table",
+									"source": "5d807175-a646-431b-991d-61a770a7e7fb-attachment.csv",
+									"type": "text/csv"
+								}
+							],
+							"steps": []
+						},
+						{
+							"name": "И я делаю подсветку элементов VA \"ЭтотСеанс\" \"Создать новый сценарий\" UI Automation",
+							"start": 1724391067645,
+							"stop": 1724391067645,
+							"status": "broken",
+							"stage": "finished",
+							"statusDetails": {
+								"known": false,
+								"muted": false,
+								"flaky": false
+							},
+							"parameters": [
+								{
+									"name": "Парам1",
+									"value": "ЭтотСеанс"
+								},
+								{
+									"name": "Парам2",
+									"value": "Создать новый сценарий"
+								}
+							],
+							"attachments": [
+								{
+									"name": "table",
+									"source": "d2897ff3-0937-4989-95f3-c0504bf7f6a5-attachment.csv",
+									"type": "text/csv"
+								}
+							],
+							"steps": []
+						},
+						{
+							"name": "И я делаю подсветку элементов VA \"ЭтотСеанс\" \"Создать новый сценарий\" UI Automation",
+							"start": 1724391067864,
+							"stop": 1724391067864,
+							"status": "broken",
+							"stage": "finished",
+							"statusDetails": {
+								"known": false,
+								"muted": false,
+								"flaky": false
+							},
+							"parameters": [
+								{
+									"name": "Парам1",
+									"value": "ЭтотСеанс"
+								},
+								{
+									"name": "Парам2",
+									"value": "Создать новый сценарий"
+								}
+							],
+							"attachments": [
+								{
+									"name": "table",
+									"source": "3b51369c-e49c-4779-94b3-a1f3a5f80d93-attachment.csv",
+									"type": "text/csv"
+								}
+							],
+							"steps": []
+						},
+						{
+							"name": "И я делаю подсветку элементов VA \"ЭтотСеанс\" \"Создать новый сценарий\" UI Automation",
+							"start": 1724391068081,
+							"stop": 1724391068081,
+							"status": "broken",
+							"stage": "finished",
+							"statusDetails": {
+								"known": false,
+								"muted": false,
+								"flaky": false
+							},
+							"parameters": [
+								{
+									"name": "Парам1",
+									"value": "ЭтотСеанс"
+								},
+								{
+									"name": "Парам2",
+									"value": "Создать новый сценарий"
+								}
+							],
+							"attachments": [
+								{
+									"name": "table",
+									"source": "84974641-77a9-42d2-ab73-53a54f2a13ff-attachment.csv",
+									"type": "text/csv"
+								}
+							],
+							"steps": []
+						},
+						{
+							"name": "И я делаю подсветку элементов VA \"ЭтотСеанс\" \"Создать новый сценарий\" UI Automation",
+							"start": 1724391068298,
+							"stop": 1724391068298,
+							"status": "broken",
+							"stage": "finished",
+							"statusDetails": {
+								"known": false,
+								"muted": false,
+								"flaky": false
+							},
+							"parameters": [
+								{
+									"name": "Парам1",
+									"value": "ЭтотСеанс"
+								},
+								{
+									"name": "Парам2",
+									"value": "Создать новый сценарий"
+								}
+							],
+							"attachments": [
+								{
+									"name": "table",
+									"source": "b5992249-034d-4118-bd9a-9d65830ef88e-attachment.csv",
+									"type": "text/csv"
+								}
+							],
+							"steps": []
+						},
+						{
+							"name": "И я делаю подсветку элементов VA \"ЭтотСеанс\" \"Создать новый сценарий\" UI Automation",
+							"start": 1724391068518,
+							"stop": 1724391068518,
+							"status": "broken",
+							"stage": "finished",
+							"statusDetails": {
+								"known": false,
+								"muted": false,
+								"flaky": false
+							},
+							"parameters": [
+								{
+									"name": "Парам1",
+									"value": "ЭтотСеанс"
+								},
+								{
+									"name": "Парам2",
+									"value": "Создать новый сценарий"
+								}
+							],
+							"attachments": [
+								{
+									"name": "table",
+									"source": "ee4772d2-db07-4302-9652-24e86e9dd137-attachment.csv",
+									"type": "text/csv"
+								}
+							],
+							"steps": []
+						},
+						{
+							"name": "И я делаю подсветку элементов VA \"ЭтотСеанс\" \"Создать новый сценарий\" UI Automation",
+							"start": 1724391068736,
+							"stop": 1724391068736,
+							"status": "broken",
+							"stage": "finished",
+							"statusDetails": {
+								"known": false,
+								"muted": false,
+								"flaky": false
+							},
+							"parameters": [
+								{
+									"name": "Парам1",
+									"value": "ЭтотСеанс"
+								},
+								{
+									"name": "Парам2",
+									"value": "Создать новый сценарий"
+								}
+							],
+							"attachments": [
+								{
+									"name": "table",
+									"source": "9eed26e9-c22d-4fc9-bbaa-2f613e4bf6bc-attachment.csv",
+									"type": "text/csv"
+								}
+							],
+							"steps": []
+						},
+						{
+							"name": "И я делаю подсветку элементов VA \"ЭтотСеанс\" \"Создать новый сценарий\" UI Automation",
+							"start": 1724391068945,
+							"stop": 1724391068945,
+							"status": "broken",
+							"stage": "finished",
+							"statusDetails": {
+								"known": false,
+								"muted": false,
+								"flaky": false
+							},
+							"parameters": [
+								{
+									"name": "Парам1",
+									"value": "ЭтотСеанс"
+								},
+								{
+									"name": "Парам2",
+									"value": "Создать новый сценарий"
+								}
+							],
+							"attachments": [
+								{
+									"name": "table",
+									"source": "e9d57232-444d-401a-a3dd-619277d3f3c9-attachment.csv",
+									"type": "text/csv"
+								}
+							],
+							"steps": []
+						},
+						{
+							"name": "И я делаю подсветку элементов VA \"ЭтотСеанс\" \"Создать новый сценарий\" UI Automation",
+							"start": 1724391069155,
+							"stop": 1724391069155,
+							"status": "broken",
+							"stage": "finished",
+							"statusDetails": {
+								"known": false,
+								"muted": false,
+								"flaky": false
+							},
+							"parameters": [
+								{
+									"name": "Парам1",
+									"value": "ЭтотСеанс"
+								},
+								{
+									"name": "Парам2",
+									"value": "Создать новый сценарий"
+								}
+							],
+							"attachments": [
+								{
+									"name": "table",
+									"source": "1708643d-69b4-408d-8106-1a54a125f018-attachment.csv",
+									"type": "text/csv"
+								}
+							],
+							"steps": []
+						},
+						{
+							"name": "И я делаю подсветку элементов VA \"ЭтотСеанс\" \"Создать новый сценарий\" UI Automation",
+							"start": 1724391069711,
+							"stop": 1724391069993,
+							"status": "passed",
+							"stage": "finished",
+							"statusDetails": {
+								"known": false,
+								"muted": false,
+								"flaky": false
+							},
+							"parameters": [
+								{
+									"name": "Парам1",
+									"value": "ЭтотСеанс"
+								},
+								{
+									"name": "Парам2",
+									"value": "Создать новый сценарий"
+								}
+							],
+							"attachments": [
+								{
+									"name": "table",
+									"source": "b19e3763-5477-4e0e-8bdb-f5c93c9e76bc-attachment.csv",
+									"type": "text/csv"
+								}
+							],
+							"steps": []
+						},
+						{
+							"name": "И я перемещаю курсор к элементу формы VA UI Automation 'ЭтотСеанс' \"ФормаVanessaEditorСоздатьНовыйСценарий\" UI Automation",
+							"start": 1724391070166,
+							"stop": 1724391070333,
+							"status": "passed",
+							"stage": "finished",
+							"statusDetails": {
+								"known": false,
+								"muted": false,
+								"flaky": false
+							},
+							"parameters": [
+								{
+									"name": "Парам1",
+									"value": "ЭтотСеанс"
+								},
+								{
+									"name": "Парам2",
+									"value": "ФормаVanessaEditorСоздатьНовыйСценарий"
+								}
+							],
+							"attachments": [],
+							"steps": []
+						},
+						{
+							"name": "И Пауза 1",
+							"start": 1724391070336,
+							"stop": 1724391071390,
+							"status": "passed",
+							"stage": "finished",
+							"statusDetails": {
+								"known": false,
+								"muted": false,
+								"flaky": false
+							},
+							"parameters": [
+								{
+									"name": "Парам1",
+									"value": 1
+								}
+							],
+							"attachments": [],
+							"steps": []
+						},
+						{
+							"name": "И Пауза 0.1",
+							"start": 1724391071530,
+							"stop": 1724391072075,
+							"status": "passed",
+							"stage": "finished",
+							"statusDetails": {
+								"known": false,
+								"muted": false,
+								"flaky": false
+							},
+							"parameters": [
+								{
+									"name": "Парам1",
+									"value": 0.1
+								}
+							],
+							"attachments": [
+								{
+									"name": "Перед выполнением шага",
+									"source": "63859987871530_И Пауза 0.1.png",
+									"type": "image/png"
+								},
+								{
+									"name": "После выполнения шага",
+									"source": "63859987871860_И Пауза 0.1.png",
+									"type": "image/png"
+								}
+							],
+							"steps": []
+						},
+						{
+							"name": "И Пауза 3",
+							"start": 1724391072185,
+							"stop": 1724391075250,
+							"status": "passed",
+							"stage": "finished",
+							"statusDetails": {
+								"known": false,
+								"muted": false,
+								"flaky": false
+							},
+							"parameters": [
+								{
+									"name": "Парам1",
+									"value": 3
+								}
+							],
+							"attachments": [],
+							"steps": []
+						},
+						{
+							"name": "И Пауза 0.5",
+							"start": 1724391075364,
+							"stop": 1724391075364,
+							"status": "broken",
+							"stage": "finished",
+							"statusDetails": {
+								"known": false,
+								"muted": false,
+								"flaky": false
+							},
+							"parameters": [
+								{
+									"name": "Парам1",
+									"value": 0.5
+								}
+							],
+							"attachments": [],
+							"steps": []
+						}
+					]
+				}
+			]
+		}
+	],
+	"parameters": [],
+	"labels": [
+		{
+			"name": "story",
+			"value": "Основные кнопки работы со сценариями. Часть один."
+		},
+		{
+			"name": "epic",
+			"value": "Интерактивная справка. Основные кнопки работы со сценариями. Часть один."
+		},
+		{
+			"name": "suite",
+			"value": "Интерактивная справка. Основные кнопки работы со сценариями. Часть один."
+		},
+		{
+			"name": "tag",
+			"value": "lessons"
+		},
+		{
+			"name": "package",
+			"value": "Глава02"
+		},
+		{
+			"name": "host",
+			"value": "lexlawpc"
+		}
+	],
+	"links": [],
+	"attachments": [],
+	"description": null
+}
